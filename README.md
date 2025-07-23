@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hafizahmadadil/-smart-expense-categorize/blob/main/smart_expense_categorize.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mO8GaNx6FOpVHWvMIGHKU2bfC06donCP#scrollTo=O1tlG1AOBiOS)
 
 # 💸 Smart Expense Tracker - AI/ML Project
 
