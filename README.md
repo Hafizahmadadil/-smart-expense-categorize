@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hafizahmadadil/-smart-expense-categorize/blob/main/smart_expense_categorize.ipynb)
+
 # 💸 Smart Expense Tracker - AI/ML Project
 
 An AI-powered Smart Expense Tracker that helps users categorize their daily spending using Natural Language Processing (NLP) and machine learning. This project demonstrates how machine learning models can classify expenses based on short text descriptions, helping users gain better financial insights.
